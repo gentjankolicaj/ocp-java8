@@ -1,0 +1,16 @@
+IMPORTANT NOTE:
+
+Anonymous inner class can be used at :
+1.Instance variables
+2.Static variables
+3.Instance methods
+4.Static methods
+5.Instance blocks
+6.Static blocks
+
+
+Anonymous inner class can be used for :
+1.Interfaces 
+2.Abstract classes
+3.Concreted classes
+
